@@ -220,3 +220,34 @@
 	"Mot.h"
 	<stdlib.h>
 
+1446651934 source:d:\l3info\c++\projets\ruzzle\dictionnaire.c
+	"dictionnaire.h"
+
+1446047295 d:\l3info\c++\projets\ruzzle\dictionnaire.h
+	"Mot.h"
+	<stdlib.h>
+
+1446046425 d:\l3info\c++\projets\ruzzle\mot.h
+	"Lettre.h"
+
+1445356510 d:\l3info\c++\projets\ruzzle\lettre.h
+	<stdio.h>
+	<stdio.h>
+
+1445516396 source:d:\l3info\c++\projets\ruzzle\lettre.c
+	<stdlib.h>
+	<stdio.h>
+	"Lettre.h"
+
+1446910767 source:d:\l3info\c++\projets\ruzzle\main.cpp
+	"Lettre.h"
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdio.h>
+
+1446046522 source:d:\l3info\c++\projets\ruzzle\mot.c
+	<stdlib.h>
+	<stdio.h>
+	"Mot.h"
+
