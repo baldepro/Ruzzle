@@ -7,6 +7,9 @@
 
 #include <SDL/SDL.h>
 #include<stdio.h>
+#include "Lettre.h"
+#include "Mot.h"
+#include "dictionnaire.h"
 
 #define WIDTH 300
 #define HEIGHT 300

@@ -9,11 +9,14 @@ typedef struct
    unsigned int taille;
 }Mot;
 
-Lettre * get_word(Mot *m);
+Lettre ** get_word(Mot *m);
 unsigned int get_taille(Mot *m);
-Mot * init_mot(char *word, unsigned int taille);
+Mot * init_mot(char *word);
 void delete_mot(Mot * m);
 int score_mot(Mot *mot);
 int compare_mot(Mot *m1, Mot *m2);
-void extract_mot_fihier(char *tab[]);
+//void extract_mot_fihier(char *tab[]);
+int _poids_caractere(char c);
+void affiche_mot(Mot * m);
+Mot ** charger_tab_mot();
 #endif // MOT_H_INCLUDED
