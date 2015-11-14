@@ -240,12 +240,17 @@
 	<stdio.h>
 	"Lettre.h"
 
-1446910767 source:d:\l3info\c++\projets\ruzzle\main.cpp
-	"Lettre.h"
+1447513660 source:d:\l3info\c++\projets\ruzzle\main.cpp
 	<cstdlib>
 	<stdlib.h>
 	<SDL/SDL.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
 	<stdio.h>
+	"Lettre.h"
+	"Mot.h"
+	"dictionnaire.h"
 
 1447251966 source:d:\l3info\c++\projets\ruzzle\mot.c
 	<stdlib.h>
